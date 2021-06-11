@@ -1,1 +1,3 @@
-# Jeu-AStero-de
+# Jeu-AStero
+
+MERCK Chloé STAILI Sofiane
