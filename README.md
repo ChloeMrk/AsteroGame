@@ -1,3 +1,3 @@
-# Jeu-AStero
+# Jeu Asteroïde
 
 MERCK Chloé STAILI Sofiane
