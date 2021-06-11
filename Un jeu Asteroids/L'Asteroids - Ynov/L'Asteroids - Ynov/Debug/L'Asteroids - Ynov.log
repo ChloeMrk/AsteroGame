@@ -1,0 +1,28 @@
+﻿  L'Asteroids - Ynov.cpp
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(29,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(29,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(66,13): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(66,20): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(68,13): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(95,25): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(96,25): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(148,1): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(149,1): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(153,1): warning C4305: '*=' : troncation de 'double' à 'float'
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(154,1): warning C4305: '*=' : troncation de 'double' à 'float'
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(185,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(205,47): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(206,53): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(207,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(218,59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(239,49): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(239,43): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(260,56): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(260,50): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(269,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(269,61): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(269,55): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(281,61): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(281,55): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\L'Asteroids - Ynov\L'Asteroids - Ynov.cpp(302,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  L'Asteroids - Ynov.vcxproj -> C:\Users\St0NeR\Bureau\Un jeu Asteroids\Un jeu Asteroids\L'Asteroids - Ynov\Debug\L'Asteroids - Ynov.exe
